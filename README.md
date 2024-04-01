@@ -51,4 +51,3 @@ Steps to run Locally:
 * Make sure backend is running in the background in order to deploy your smart contract *
 
 
-Lastly Follow me on Twitter: https://twitter.com/SouravMaji221
